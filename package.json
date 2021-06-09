@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "tutorial express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizuirorivi/myapp.git"
+  },
+  "author": "mizuirorivi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mizuirorivi/myapp/issues"
+  },
+  "homepage": "https://github.com/mizuirorivi/myapp#readme"
+}
